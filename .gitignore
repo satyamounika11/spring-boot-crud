@@ -1,0 +1,20 @@
+# Maven
+/target
+!.mvn/wrapper/maven-wrapper.jar
+**/src/main/resources/application.properties
+/logs
+*.log
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
